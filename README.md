@@ -30,6 +30,8 @@ Publish the website in the LocalHost.
 ## HTML
 
 ```
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,6 +148,8 @@ Publish the website in the LocalHost.
     <script src="script.js"></script>
 </body>
 </html>
+
+
 ```
 
 
@@ -154,6 +158,8 @@ Publish the website in the LocalHost.
 ## script.js
 
 ```
+
+
 // Shopping Cart Logic
 const cart = [];
 const cartItems = document.getElementById("cartItems");
@@ -216,6 +222,8 @@ function updateCart() {
         });
     });
 }
+
+
 ```
 
 
@@ -224,6 +232,8 @@ function updateCart() {
 ## CSS
 
 ```
+
+
 body {
     font-family: 'Arial', sans-serif;
 }
@@ -247,6 +257,8 @@ body {
     font-weight: bold;
     color: #2ecc71;
 }
+
+
 
 ```
 
