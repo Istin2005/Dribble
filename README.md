@@ -148,6 +148,8 @@ Publish the website in the LocalHost.
 ```
 
 ##script.js
+
+```
 // Shopping Cart Logic
 const cart = [];
 const cartItems = document.getElementById("cartItems");
@@ -210,9 +212,11 @@ function updateCart() {
         });
     });
 }
+```
 
 ##CSS
 
+```
 body {
     font-family: 'Arial', sans-serif;
 }
@@ -237,7 +241,7 @@ body {
     color: #2ecc71;
 }
 
-
+```
 
 ## OUTPUT:
 ![Screenshot (346)](https://github.com/user-attachments/assets/b921c8eb-44a0-4b9b-a306-e9060c66fb29)
