@@ -27,7 +27,8 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 
-##HTML
+## HTML
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -147,7 +148,10 @@ Publish the website in the LocalHost.
 </html>
 ```
 
-##script.js
+
+
+
+## script.js
 
 ```
 // Shopping Cart Logic
@@ -214,7 +218,10 @@ function updateCart() {
 }
 ```
 
-##CSS
+
+
+
+## CSS
 
 ```
 body {
